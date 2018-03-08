@@ -18,3 +18,5 @@ git diff --name-only ->  mostra os arquivos modificados
 git remote -> mostra a origem
 
 git remote -v -> mostra opções fetch e push
+
+git push -u origin master -> envia arquivos para o git remoto
