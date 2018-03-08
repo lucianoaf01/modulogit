@@ -14,3 +14,7 @@ git diff ->    mostra as alteraçoes feitas
 git checkout HEAD -- style.css ->  retorna ao estado original do arquivo
 
 git diff --name-only ->  mostra os arquivos modificados
+
+git remote -> mostra a origem
+
+git remote -v -> mostra opções fetch e push
