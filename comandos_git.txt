@@ -20,3 +20,5 @@ git remote -> mostra a origem
 git remote -v -> mostra opções fetch e push
 
 git push -u origin master -> envia arquivos para o git remoto
+
+git push origin master -> envia arquivos para o git remoto
