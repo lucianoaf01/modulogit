@@ -1,0 +1,16 @@
+
+
+
+git commit -am "teste" ->   cria um commit salvando as alterações
+
+git branch ->   mostra o ranch atual
+
+git branch teste -> cria um novo branch
+
+git checkout teste -> muda para o branch teste
+
+git diff ->    mostra as alteraçoes feitas
+
+git checkout HEAD -- style.css ->  retorna ao estado original do arquivo
+
+git diff --name-only ->  mostra os arquivos modificados
