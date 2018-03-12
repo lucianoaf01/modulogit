@@ -3,7 +3,7 @@ git add -A -> adciona no arquivo
 
 git commit -am "teste" ->   cria um commit salvando as alterações
 
-git branch ->   mostra o ranch atual
+git branch ->   mostra o branch atual
 
 git branch teste -> cria um novo branch
 
