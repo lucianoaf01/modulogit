@@ -23,4 +23,6 @@ git push -u origin master -> envia arquivos para o git remoto
 
 git push origin master -> envia arquivos para o git remoto
 
-.gitignore -> serve para ignorar arquivos
+.gitignore -> serve para ignorar 
+
+git push origin :teste -> deleta um branch remoto
