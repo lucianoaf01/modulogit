@@ -26,3 +26,5 @@ git push origin master -> envia arquivos para o git remoto
 .gitignore -> serve para ignorar 
 
 git push origin :teste -> deleta um branch remoto
+
+git branch -D teste -> deleta um branch local
